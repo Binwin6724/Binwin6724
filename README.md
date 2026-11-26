@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://binwin6724.github.io/"><img src="https://img.shields.io/badge/Portfolio-binwin6724.github.io-37E8FF?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/binwin-viju"><img src="https://img.shields.io/badge/LinkedIn-binwin--viju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Binwin6724"><img src="https://img.shields.io/badge/GitHub-Binwin6724-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://binwin6724.github.io/MinLabz/"><img src="https://img.shields.io/badge/MinLabz-Projects-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MinLabz"/></a>
